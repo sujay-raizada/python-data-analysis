@@ -19,14 +19,6 @@ Apply Python libraries to clean, transform, and visualize datasets, uncovering k
 - Applied aggregation to summarize customer/product performance.
 - Built visualizations highlighting correlations and trends.
 
-## 📸 Screenshots
-![Visualization Example](visuals/sample_chart.png)
-
 ## 📈 Business Impact
-This project demonstrates how Python can be leveraged for exploratory data analysis, trend discovery, and decision support.
-
-## 📂 Files
-- [Dataset]
-- [Jupyter Notebook]
-- [Charts](visuals/)
+This project demonstrates how Python can be leveraged for exploratory data analysis, trend discovery, and decision support
 
