@@ -27,6 +27,6 @@ This project demonstrates how Python can be leveraged for exploratory data analy
 
 ## 📂 Files
 - [Dataset]
-- [Jupyter Notebook](notebooks/analysis.ipynb)
+- [Jupyter Notebook]
 - [Charts](visuals/)
 
